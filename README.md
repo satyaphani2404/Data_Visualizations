@@ -6,8 +6,8 @@ Data Visualizations is emerging as one of the most essential skills in almost al
 ## Contents
 * 1. Line Plots
 * 2. Bar Plots
-* 3. Pie Charts
-* 4. Scatter Charts
+* 3. Scatter Charts
+* 4. Pie Charts
 * 5. Improving the Visibility of Charts
 * 6. Introduction to seaborn
 * 7. Introduction to Plotly
